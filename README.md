@@ -28,13 +28,13 @@ MovieLand is a React application that allows users to search for movies and view
    To run the application in development mode:
    ```
 
-bash
+bash:
 Copy code
 npm start
 Open your browser and go to http://localhost:3000 to view the application.
 
-API Key
+API Key:
 This application uses the OMDB API. Make sure to replace the API key in the source code with your own if needed. You can sign up at OMDB API for a free API key.
 
-Contributing
+Contributing:
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or enhancements.
